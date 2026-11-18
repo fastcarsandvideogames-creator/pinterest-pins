@@ -14,7 +14,7 @@ SITE = "https://picks.yourecomempire.com"
 TAG = "ecom305-20"
 NAME = "Home & Gift Picks"
 TZ = ZoneInfo("America/New_York")
-PIN_VERIFY = os.environ.get("PIN_VERIFY", "")  # Pinterest domain-claim meta content
+PIN_VERIFY = os.environ.get("PIN_VERIFY") or "509ece0c29b64baa0280d802719967e3"  # Pinterest domain-claim meta content
 BOARDS = {
     "kitchen": "Kitchen Gadgets Worth Buying",
     "gifts": "Holiday Gift Ideas 2026",

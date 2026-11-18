@@ -20,6 +20,9 @@ BOARDS = {
     "gifts": "Holiday Gift Ideas 2026",
     "decor": "Cozy Home Decor Ideas",
     "org": "Home Organization Ideas",
+    "him": "Gifts for Him 2026",
+    "her": "Gifts for Her 2026",
+    "stocking": "Stocking Stuffer Ideas",
 }
 DISCLOSURE = "As an Amazon Associate I earn from qualifying purchases. Links on this site are affiliate links."
 ROOT = os.path.dirname(os.path.abspath(__file__))

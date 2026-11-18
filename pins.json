@@ -24,78 +24,6 @@
   "publish": "2026-11-18T03:00:00"
  },
  {
-  "id": "B07YP2VH4B-b",
-  "asin": "B07YP2VH4B",
-  "var": "b",
-  "name": "KitchenAid Classic Multifunction Can Opener",
-  "board": "kitchen",
-  "title": "Replace the flimsy can opener in your drawer",
-  "desc": "A sturdy can opener with a built-in bottle opener and comfortable grip. One of those small kitchen upgrades you'll notice every single time you cook.",
-  "kw": "kitchen essentials, can opener, kitchenaid, kitchen upgrade, first apartment checklist",
-  "img": "B07YP2VH4B_b.jpg",
-  "publish": "2026-11-19T12:00:00"
- },
- {
-  "id": "B0113UZJE2-b",
-  "asin": "B0113UZJE2",
-  "var": "b",
-  "name": "Etekcity Digital Food Kitchen Scale",
-  "board": "kitchen",
-  "title": "The cheapest tool that levels up your cooking",
-  "desc": "Weigh ingredients in grams or ounces for consistent baking, meal prep and portioning. Tare function, slim design, easy to store. Professional bakers weigh \u2014 now you can too.",
-  "kw": "baking tips, kitchen scale, meal prep, food scale, baking essentials",
-  "img": "B0113UZJE2_b.jpg",
-  "publish": "2026-11-19T20:00:00"
- },
- {
-  "id": "B08J8GZXKZ-b",
-  "asin": "B08J8GZXKZ",
-  "var": "b",
-  "name": "KitchenAid Silicone Oven Mitt 2-Pack",
-  "board": "kitchen",
-  "title": "Upgrade your oven mitts before the holidays",
-  "desc": "Ribbed silicone oven mitts that grip hot pans, wipe clean easily and look good hanging in your kitchen. A cute, practical hostess gift too.",
-  "kw": "oven mitts, holiday baking, hostess gift, kitchen decor, kitchen essentials",
-  "img": "B08J8GZXKZ_b.jpg",
-  "publish": "2026-11-20T08:00:00"
- },
- {
-  "id": "B07PZF3QS3-b",
-  "asin": "B07PZF3QS3",
-  "var": "b",
-  "name": "KitchenAid All Purpose Kitchen Shears",
-  "board": "kitchen",
-  "title": "The kitchen tool you'll reach for daily",
-  "desc": "All-purpose kitchen shears for snipping herbs, cutting chicken, trimming pizza and opening packages. Comes with a protective sheath. A small kitchen tool that saves a lot of time.",
-  "kw": "kitchen tools, cooking hacks, kitchen shears, kitchen essentials, cooking tips",
-  "img": "B07PZF3QS3_b.jpg",
-  "publish": "2026-11-20T12:00:00"
- },
- {
-  "id": "B0CJF94M8J-b",
-  "asin": "B0CJF94M8J",
-  "var": "b",
-  "name": "TrendPlain Glass Olive Oil Sprayer",
-  "board": "kitchen",
-  "title": "Ditch the aerosol cans",
-  "desc": "A refillable glass oil sprayer for air fryers, salads, roasting and grilling. Mist a light, even coat instead of pouring \u2014 less oil, less mess, no aerosol cans.",
-  "kw": "air fryer accessories, olive oil sprayer, healthy cooking, air fryer hacks, kitchen gadgets",
-  "img": "B0CJF94M8J_b.jpg",
-  "publish": "2026-11-20T17:00:00"
- },
- {
-  "id": "B0CPLVLFK2-b",
-  "asin": "B0CPLVLFK2",
-  "var": "b",
-  "name": "Turelar Handheld Immersion Blender",
-  "board": "kitchen",
-  "title": "Soups, smoothies, sauces, whipped cream",
-  "desc": "Pur\u00e9e soups right in the pot, blend smoothies, make sauces and whip cream with one handheld immersion blender. Easy to clean and easy to store \u2014 a cozy-season kitchen essential.",
-  "kw": "immersion blender, soup recipes, fall cooking, kitchen gadgets, small kitchen appliances",
-  "img": "B0CPLVLFK2_b.jpg",
-  "publish": "2026-11-20T20:30:00"
- },
- {
   "id": "B0C3QZ7SNF-b",
   "asin": "B0C3QZ7SNF",
   "var": "b",
@@ -120,6 +48,150 @@
   "publish": "2026-11-18T03:00:00"
  },
  {
+  "id": "B07YP2VH4B-b",
+  "asin": "B07YP2VH4B",
+  "var": "b",
+  "name": "KitchenAid Classic Multifunction Can Opener",
+  "board": "kitchen",
+  "title": "Replace the flimsy can opener in your drawer",
+  "desc": "A sturdy can opener with a built-in bottle opener and comfortable grip. One of those small kitchen upgrades you'll notice every single time you cook.",
+  "kw": "kitchen essentials, can opener, kitchenaid, kitchen upgrade, first apartment checklist",
+  "img": "B07YP2VH4B_b.jpg",
+  "publish": "2026-11-18T07:00:00"
+ },
+ {
+  "id": "B0FQFB8FMG-a",
+  "asin": "B0FQFB8FMG",
+  "var": "a",
+  "name": "Apple AirPods Pro 3",
+  "board": "him",
+  "title": "The gift he'll use every single day",
+  "desc": "Apple AirPods Pro 3 wireless earbuds with noise cancellation \u2014 for the gym, the commute and every call. One of the safest big gifts for husbands, dads, brothers and teens.",
+  "kw": "gifts for him, airpods pro, christmas gifts for men, tech gifts, gifts for husband",
+  "img": "img/B0FQFB8FMG_a.jpg",
+  "publish": "2026-11-18T03:30:00"
+ },
+ {
+  "id": "B0113UZJE2-b",
+  "asin": "B0113UZJE2",
+  "var": "b",
+  "name": "Etekcity Digital Food Kitchen Scale",
+  "board": "kitchen",
+  "title": "The cheapest tool that levels up your cooking",
+  "desc": "Weigh ingredients in grams or ounces for consistent baking, meal prep and portioning. Tare function, slim design, easy to store. Professional bakers weigh \u2014 now you can too.",
+  "kw": "baking tips, kitchen scale, meal prep, food scale, baking essentials",
+  "img": "B0113UZJE2_b.jpg",
+  "publish": "2026-11-18T11:30:00"
+ },
+ {
+  "id": "B0GJTFXNRX-a",
+  "asin": "B0GJTFXNRX",
+  "var": "a",
+  "name": "Apple AirTag (2nd Generation)",
+  "board": "him",
+  "title": "For the guy who loses his keys daily",
+  "desc": "Apple AirTag helps find keys, wallets, bags and luggage right from an iPhone. A small, genuinely useful gift for the person who is always losing things \u2014 or always traveling.",
+  "kw": "gifts for him, airtag, travel gifts, practical gifts for men, stocking stuffers for men",
+  "img": "img/B0GJTFXNRX_a.jpg",
+  "publish": "2026-11-18T13:30:00"
+ },
+ {
+  "id": "B08J8GZXKZ-b",
+  "asin": "B08J8GZXKZ",
+  "var": "b",
+  "name": "KitchenAid Silicone Oven Mitt 2-Pack",
+  "board": "kitchen",
+  "title": "Upgrade your oven mitts before the holidays",
+  "desc": "Ribbed silicone oven mitts that grip hot pans, wipe clean easily and look good hanging in your kitchen. A cute, practical hostess gift too.",
+  "kw": "oven mitts, holiday baking, hostess gift, kitchen decor, kitchen essentials",
+  "img": "B08J8GZXKZ_b.jpg",
+  "publish": "2026-11-18T15:30:00"
+ },
+ {
+  "id": "B002G9UDYG-a",
+  "asin": "B002G9UDYG",
+  "var": "a",
+  "name": "Carhartt Men's Knit Cuffed Beanie (A18)",
+  "board": "him",
+  "title": "The beanie every guy actually wears",
+  "desc": "The iconic Carhartt knit cuffed beanie \u2014 warm, durable and in lots of colors. An easy winter gift for dads, husbands, brothers and the outdoorsy guy in your life.",
+  "kw": "gifts for him, carhartt beanie, winter gifts for men, gifts for dad, stocking stuffers for men",
+  "img": "img/B002G9UDYG_a.jpg",
+  "publish": "2026-11-18T17:30:00"
+ },
+ {
+  "id": "B07PZF3QS3-b",
+  "asin": "B07PZF3QS3",
+  "var": "b",
+  "name": "KitchenAid All Purpose Kitchen Shears",
+  "board": "kitchen",
+  "title": "The kitchen tool you'll reach for daily",
+  "desc": "All-purpose kitchen shears for snipping herbs, cutting chicken, trimming pizza and opening packages. Comes with a protective sheath. A small kitchen tool that saves a lot of time.",
+  "kw": "kitchen tools, cooking hacks, kitchen shears, kitchen essentials, cooking tips",
+  "img": "B07PZF3QS3_b.jpg",
+  "publish": "2026-11-18T19:30:00"
+ },
+ {
+  "id": "B01KTUMBOI-a",
+  "asin": "B01KTUMBOI",
+  "var": "a",
+  "name": "Legendary Whitetails Men's Flannel Shirt",
+  "board": "him",
+  "title": "The flannel he'll live in all winter",
+  "desc": "A soft, classic men's flannel shirt from Legendary Whitetails \u2014 perfect for cabin weekends, bonfires and Christmas morning photos.",
+  "kw": "mens flannel, gifts for him, christmas outfit ideas, gifts for husband, cozy gifts",
+  "img": "img/B01KTUMBOI_a.jpg",
+  "publish": "2026-11-18T21:30:00"
+ },
+ {
+  "id": "B0CJF94M8J-b",
+  "asin": "B0CJF94M8J",
+  "var": "b",
+  "name": "TrendPlain Glass Olive Oil Sprayer",
+  "board": "kitchen",
+  "title": "Ditch the aerosol cans",
+  "desc": "A refillable glass oil sprayer for air fryers, salads, roasting and grilling. Mist a light, even coat instead of pouring \u2014 less oil, less mess, no aerosol cans.",
+  "kw": "air fryer accessories, olive oil sprayer, healthy cooking, air fryer hacks, kitchen gadgets",
+  "img": "B0CJF94M8J_b.jpg",
+  "publish": "2026-11-19T07:00:00"
+ },
+ {
+  "id": "B08D66HCXW-a",
+  "asin": "B08D66HCXW",
+  "var": "a",
+  "name": "LHKNL LED Headlamp Flashlight",
+  "board": "him",
+  "title": "The gift every DIY dad uses weekly",
+  "desc": "A bright LED headlamp for camping, running, fishing, car trouble and fixing things under the sink \u2014 hands-free light he'll reach for constantly.",
+  "kw": "gifts for dad, camping gifts, practical gifts for men, headlamp, stocking stuffers for men",
+  "img": "img/B08D66HCXW_a.jpg",
+  "publish": "2026-11-19T09:30:00"
+ },
+ {
+  "id": "B0CPLVLFK2-b",
+  "asin": "B0CPLVLFK2",
+  "var": "b",
+  "name": "Turelar Handheld Immersion Blender",
+  "board": "kitchen",
+  "title": "Soups, smoothies, sauces, whipped cream",
+  "desc": "Pur\u00e9e soups right in the pot, blend smoothies, make sauces and whip cream with one handheld immersion blender. Easy to clean and easy to store \u2014 a cozy-season kitchen essential.",
+  "kw": "immersion blender, soup recipes, fall cooking, kitchen gadgets, small kitchen appliances",
+  "img": "B0CPLVLFK2_b.jpg",
+  "publish": "2026-11-19T11:30:00"
+ },
+ {
+  "id": "B0CG65PYBV-a",
+  "asin": "B0CG65PYBV",
+  "var": "a",
+  "name": "Rechargeable Hand Warmers (2 Pack)",
+  "board": "him",
+  "title": "Warm hands at every cold game this winter",
+  "desc": "Rechargeable hand warmers for football games, hunting, fishing, commuting and outdoor work. Reusable, pocket-sized and a great winter gift.",
+  "kw": "hand warmers, gifts for hunters, winter gifts, gifts for dad, outdoor gifts",
+  "img": "img/B0CG65PYBV_a.jpg",
+  "publish": "2026-11-19T13:30:00"
+ },
+ {
   "id": "B0028JURDQ-b",
   "asin": "B0028JURDQ",
   "var": "b",
@@ -129,7 +201,19 @@
   "desc": "Custom-length FoodSaver vacuum sealer rolls to keep meat, leftovers and meal prep fresh longer and prevent freezer burn. Buy in bulk, seal, and save.",
   "kw": "meal prep, freezer meals, vacuum sealer, save money on groceries, food storage",
   "img": "B0028JURDQ_b.jpg",
-  "publish": "2026-11-21T17:00:00"
+  "publish": "2026-11-19T15:30:00"
+ },
+ {
+  "id": "B0DHT5XZR1-a",
+  "asin": "B0DHT5XZR1",
+  "var": "a",
+  "name": "Callaway Supersoft Golf Balls",
+  "board": "him",
+  "title": "The easy win for the golfer in your life",
+  "desc": "A box of Callaway Supersoft golf balls \u2014 the gift golfers always use up. Easy stocking stuffer or add-on gift for dads, husbands and grandpas who golf.",
+  "kw": "gifts for golfers, golf gifts, gifts for dad, stocking stuffers for men, christmas gifts for men",
+  "img": "img/B0DHT5XZR1_a.jpg",
+  "publish": "2026-11-19T17:30:00"
  },
  {
   "id": "B0BZYCJK89-b",
@@ -141,7 +225,19 @@
   "desc": "The Owala FreeSip insulated stainless steel water bottle lets you sip through the straw or swig from the spout. Keeps drinks cold for hours and comes in fun colors \u2014 an easy gift for teens, women, coworkers and gym lovers.",
   "kw": "gift ideas for her, owala water bottle, christmas gift ideas, gifts for teens, stocking stuffers",
   "img": "B0BZYCJK89_b.jpg",
-  "publish": "2026-11-21T20:30:00"
+  "publish": "2026-11-19T19:30:00"
+ },
+ {
+  "id": "B0CTNWBT1Z-a",
+  "asin": "B0CTNWBT1Z",
+  "var": "a",
+  "name": "JBL Go 4 Portable Bluetooth Speaker",
+  "board": "him",
+  "title": "The tiny speaker that goes everywhere",
+  "desc": "The JBL Go 4 is a pocket-size, waterproof Bluetooth speaker for the shower, garage, beach and tailgates. A fun tech gift for teens, dads and friends.",
+  "kw": "bluetooth speaker, tech gifts, gifts for teens, gifts for him, jbl speaker",
+  "img": "img/B0CTNWBT1Z_a.jpg",
+  "publish": "2026-11-19T21:30:00"
  },
  {
   "id": "B0DF472VMZ-b",
@@ -153,7 +249,19 @@
   "desc": "The Owala SmoothSip insulated tumbler keeps coffee hot or iced coffee cold, with a slider lid for easy sipping. A perfect gift for coffee lovers, teachers and coworkers.",
   "kw": "coffee lover gifts, gifts for her, teacher gifts, iced coffee cup, christmas gift ideas",
   "img": "B0DF472VMZ_b.jpg",
-  "publish": "2026-11-22T08:00:00"
+  "publish": "2026-11-20T07:00:00"
+ },
+ {
+  "id": "B0F7Z4QZTT-a",
+  "asin": "B0F7Z4QZTT",
+  "var": "a",
+  "name": "Amazon Fire TV Stick 4K",
+  "board": "him",
+  "title": "Turn any TV into a smart TV",
+  "desc": "The Fire TV Stick 4K turns any TV with HDMI into a smart TV for streaming apps. An easy gift for parents, grandparents, dorm rooms and the bedroom TV.",
+  "kw": "fire tv stick, tech gifts, gifts for dad, gifts for parents, smart tv",
+  "img": "img/B0F7Z4QZTT_a.jpg",
+  "publish": "2026-11-20T09:30:00"
  },
  {
   "id": "B0CJZW65R3-b",
@@ -165,7 +273,19 @@
   "desc": "The Stanley Quencher H2.0 FlowState 40 oz tumbler with handle and straw \u2014 fits most cup holders and keeps drinks cold for hours. One of the most-wished-for gifts for women and teens.",
   "kw": "stanley cup, gifts for her, christmas wish list, gifts for teen girls, tumbler",
   "img": "B0CJZW65R3_b.jpg",
-  "publish": "2026-11-22T12:00:00"
+  "publish": "2026-11-20T11:30:00"
+ },
+ {
+  "id": "B08WWX5GTZ-a",
+  "asin": "B08WWX5GTZ",
+  "var": "a",
+  "name": "Lichamp LED Camping Lantern",
+  "board": "him",
+  "title": "The lantern every home should have",
+  "desc": "A bright battery-powered LED lantern for camping, power outages, emergency kits and backyard nights. A practical gift every household can use.",
+  "kw": "camping gifts, emergency kit, power outage essentials, practical gifts, gifts for dad",
+  "img": "img/B08WWX5GTZ_a.jpg",
+  "publish": "2026-11-20T13:30:00"
  },
  {
   "id": "B073WJMKHN-b",
@@ -177,7 +297,19 @@
   "desc": "The YETI Rambler 20 oz stainless steel tumbler \u2014 tough, dishwasher safe and keeps coffee hot or drinks cold. A reliable gift for men, dads, coworkers and outdoorsy friends.",
   "kw": "gifts for men, gifts for dad, yeti tumbler, christmas gifts for him, coworker gifts",
   "img": "B073WJMKHN_b.jpg",
-  "publish": "2026-11-22T17:00:00"
+  "publish": "2026-11-20T15:30:00"
+ },
+ {
+  "id": "B0D6ZPNZ4Z-a",
+  "asin": "B0D6ZPNZ4Z",
+  "var": "a",
+  "name": "Sol de Janeiro Cheirosa Hair & Body Mist",
+  "board": "her",
+  "title": "The scent everyone keeps asking about",
+  "desc": "Sol de Janeiro Cheirosa hair and body fragrance mist \u2014 the cult-favorite scent for her. An easy gift for teens, sisters, best friends and moms.",
+  "kw": "gifts for her, sol de janeiro, gifts for teen girls, beauty gifts, christmas gifts for women",
+  "img": "img/B0D6ZPNZ4Z_a.jpg",
+  "publish": "2026-11-18T03:30:00"
  },
  {
   "id": "B0BYB99QZQ-b",
@@ -189,7 +321,19 @@
   "desc": "A reusable neoprene sleeve that keeps iced coffee colder and stops cup sweat and drips. Fits most to-go cups \u2014 a fun, inexpensive stocking stuffer for coffee lovers.",
   "kw": "stocking stuffers, iced coffee, gifts under 20, coffee lover gifts, white elephant gifts",
   "img": "B0BYB99QZQ_b.jpg",
-  "publish": "2026-11-22T20:30:00"
+  "publish": "2026-11-20T19:30:00"
+ },
+ {
+  "id": "B0B2RM68G2-a",
+  "asin": "B0B2RM68G2",
+  "var": "a",
+  "name": "BIODANCE Bio-Collagen Real Deep Mask",
+  "board": "her",
+  "title": "The overnight mask everyone's talking about",
+  "desc": "BIODANCE Bio-Collagen overnight sheet masks \u2014 the viral K-beauty pick for a pampering spa night. A thoughtful self-care gift for her.",
+  "kw": "self care gifts, k beauty, skincare gifts, gifts for her, spa night ideas",
+  "img": "img/B0B2RM68G2_a.jpg",
+  "publish": "2026-11-20T21:30:00"
  },
  {
   "id": "B09BDFXNQX-b",
@@ -201,7 +345,19 @@
   "desc": "The Crock-Pot portable electric lunch box warms your meal at your desk \u2014 skip the office microwave line. A practical gift for coworkers, nurses, teachers and anyone who meal preps.",
   "kw": "gifts for coworkers, lunch ideas for work, meal prep, practical gifts, gifts for nurses",
   "img": "B09BDFXNQX_b.jpg",
-  "publish": "2026-11-23T08:00:00"
+  "publish": "2026-11-21T07:00:00"
+ },
+ {
+  "id": "B014E2D6BY-a",
+  "asin": "B014E2D6BY",
+  "var": "a",
+  "name": "grace & stella Under Eye Masks",
+  "board": "her",
+  "title": "A little pampering for the busiest mom",
+  "desc": "grace & stella under-eye masks \u2014 a quick, soothing self-care treat. A perfect stocking stuffer for moms, sisters, teachers and friends.",
+  "kw": "stocking stuffers for her, self care gifts, eye masks, gifts for mom, beauty gifts",
+  "img": "img/B014E2D6BY_a.jpg",
+  "publish": "2026-11-21T09:30:00"
  },
  {
   "id": "B0CTJGJL2T-b",
@@ -213,7 +369,19 @@
   "desc": "A candle warmer lamp melts your candle from the top down \u2014 no flame, no soot, and candles last longer. Built-in timer and dimmer. A beautiful cozy home accent and a great gift for candle lovers.",
   "kw": "cozy home decor, candle warmer, gifts for her, hygge home, bedroom decor ideas",
   "img": "B0CTJGJL2T_b.jpg",
-  "publish": "2026-11-23T12:00:00"
+  "publish": "2026-11-21T11:30:00"
+ },
+ {
+  "id": "B09319MZJN-a",
+  "asin": "B09319MZJN",
+  "var": "a",
+  "name": "Fuzzy Cloud Socks for Women",
+  "board": "her",
+  "title": "The softest socks for cold winter nights",
+  "desc": "Super soft fuzzy cloud socks for cozy nights in \u2014 the kind of gift every woman secretly wants. Great for stockings, gift baskets and Secret Santa.",
+  "kw": "fuzzy socks, cozy gifts, gifts for her, secret santa gifts, gift basket ideas",
+  "img": "img/B09319MZJN_a.jpg",
+  "publish": "2026-11-21T13:30:00"
  },
  {
   "id": "B0BFVVKVSK-b",
@@ -225,7 +393,19 @@
   "desc": "Soft corduroy throw pillow covers that add texture and warmth to your sofa or bed. Swapping pillow covers is the fastest, cheapest way to refresh your living room for the season.",
   "kw": "living room decor ideas, throw pillows, cozy living room, winter decor, couch styling",
   "img": "B0BFVVKVSK_b.jpg",
-  "publish": "2026-11-23T17:00:00"
+  "publish": "2026-11-21T15:30:00"
+ },
+ {
+  "id": "B09P1GB319-a",
+  "asin": "B09P1GB319",
+  "var": "a",
+  "name": "CRZ YOGA Butterluxe Leggings",
+  "board": "her",
+  "title": "The leggings that feel like butter",
+  "desc": "CRZ YOGA Butterluxe leggings \u2014 buttery-soft, high-rise leggings for yoga, errands and lounging. A gift she'll wear constantly.",
+  "kw": "leggings, athleisure, gifts for her, workout gifts, christmas gifts for women",
+  "img": "img/B09P1GB319_a.jpg",
+  "publish": "2026-11-21T17:30:00"
  },
  {
   "id": "B08KDV1TFY-b",
@@ -237,7 +417,19 @@
   "desc": "Classic plaid Christmas pillow covers for a cozy farmhouse holiday look. Slip them on for the season and store them flat afterward \u2014 an easy, budget-friendly way to decorate for Christmas.",
   "kw": "christmas decor ideas, farmhouse christmas, christmas living room, plaid decor, holiday decorating",
   "img": "B08KDV1TFY_b.jpg",
-  "publish": "2026-11-23T20:30:00"
+  "publish": "2026-11-21T19:30:00"
+ },
+ {
+  "id": "B0HJ9ZNRKT-a",
+  "asin": "B0HJ9ZNRKT",
+  "var": "a",
+  "name": "Apple Watch SE 3 (GPS, 40mm)",
+  "board": "her",
+  "title": "The gift that helps her hit her goals",
+  "desc": "Apple Watch SE 3 \u2014 fitness tracking, notifications and safety features on her wrist. A big-ticket gift for wives, moms and teens with iPhones.",
+  "kw": "apple watch, gifts for her, fitness gifts, christmas gifts for wife, tech gifts",
+  "img": "img/B0HJ9ZNRKT_a.jpg",
+  "publish": "2026-11-21T21:30:00"
  },
  {
   "id": "B0FP16QMYR-b",
@@ -249,7 +441,19 @@
   "desc": "Burgundy velvet ribbon bows to decorate your Christmas tree, wreath, garland, stair rail and gifts. One of the easiest ways to get the elegant bow-covered tree look this season.",
   "kw": "christmas tree decorating ideas, velvet bows, christmas decor trends, burgundy christmas, wreath ideas",
   "img": "B0FP16QMYR_b.jpg",
-  "publish": "2026-11-24T08:00:00"
+  "publish": "2026-11-22T07:00:00"
+ },
+ {
+  "id": "B0CZPLV566-a",
+  "asin": "B0CZPLV566",
+  "var": "a",
+  "name": "Beats Solo 4 On-Ear Headphones",
+  "board": "her",
+  "title": "The headphones on every teen's wish list",
+  "desc": "Beats Solo 4 wireless on-ear headphones \u2014 stylish, comfortable and great for music on the go. A top gift for teens, students and music lovers.",
+  "kw": "beats headphones, gifts for teens, gifts for her, tech gifts, christmas gifts for teen girls",
+  "img": "img/B0CZPLV566_a.jpg",
+  "publish": "2026-11-22T09:30:00"
  },
  {
   "id": "B09WXZWSN3-b",
@@ -261,7 +465,19 @@
   "desc": "A 10-foot rustic cheesecloth table runner in terracotta \u2014 drape it for an effortless boho tablescape for Thanksgiving, Friendsgiving, showers and dinner parties.",
   "kw": "thanksgiving table decor, tablescape ideas, friendsgiving, boho decor, dinner party ideas",
   "img": "B09WXZWSN3_b.jpg",
-  "publish": "2026-11-24T12:00:00"
+  "publish": "2026-11-22T11:30:00"
+ },
+ {
+  "id": "B0FK1C3GDW-a",
+  "asin": "B0FK1C3GDW",
+  "var": "a",
+  "name": "Owala FreeSip Sway Water Bottle",
+  "board": "her",
+  "title": "The water bottle she'll carry everywhere",
+  "desc": "The Owala FreeSip Sway insulated water bottle \u2014 sip through the straw or swig from the spout, in fun colors. An easy gift for teens, coworkers and gym lovers.",
+  "kw": "owala, gifts for her, gifts for coworkers, water bottle, gifts for teen girls",
+  "img": "img/B0FK1C3GDW_a.jpg",
+  "publish": "2026-11-22T13:30:00"
  },
  {
   "id": "B08KXKVT4K-b",
@@ -273,7 +489,19 @@
   "desc": "A 25-piece clear drawer organizer set in mixed sizes for junk drawers, bathroom vanities, desks and makeup. Mix and match to give every drawer a satisfying, organized look.",
   "kw": "drawer organization, junk drawer, bathroom organization, home organization ideas, organize with me",
   "img": "B08KXKVT4K_b.jpg",
-  "publish": "2026-11-24T17:00:00"
+  "publish": "2026-11-22T15:30:00"
+ },
+ {
+  "id": "B0014C0LSY-a",
+  "asin": "B0014C0LSY",
+  "var": "a",
+  "name": "Crocs Classic Clog",
+  "board": "her",
+  "title": "The comfy shoes the whole family wants",
+  "desc": "Crocs Classic Clogs \u2014 lightweight, comfy and easy to clean, in tons of colors. A favorite gift for nurses, teachers, teens and anyone on their feet all day.",
+  "kw": "crocs, gifts for nurses, comfy shoes, gifts for teens, christmas gift ideas",
+  "img": "img/B0014C0LSY_a.jpg",
+  "publish": "2026-11-22T17:30:00"
  },
  {
   "id": "B0711RQMNF-b",
@@ -285,7 +513,19 @@
   "desc": "Collapsible fabric storage cubes that fit standard cube shelves \u2014 perfect for toys, closets, nurseries and living rooms. Hide clutter while keeping your space looking clean.",
   "kw": "toy storage ideas, closet organization, storage cubes, playroom organization, home organization",
   "img": "B0711RQMNF_b.jpg",
-  "publish": "2026-11-24T20:30:00"
+  "publish": "2026-11-22T19:30:00"
+ },
+ {
+  "id": "B0C3HCD34R-a",
+  "asin": "B0C3HCD34R",
+  "var": "a",
+  "name": "soundcore by Anker Q20i Headphones",
+  "board": "her",
+  "title": "Noise-cancelling headphones without the splurge",
+  "desc": "soundcore by Anker Q20i noise-cancelling over-ear headphones \u2014 great for studying, commuting and travel. A budget-friendly tech gift that feels premium.",
+  "kw": "noise cancelling headphones, gifts for students, budget tech gifts, gifts for her, travel gifts",
+  "img": "img/B0C3HCD34R_a.jpg",
+  "publish": "2026-11-22T21:30:00"
  },
  {
   "id": "B079M8FPTW-b",
@@ -297,7 +537,19 @@
   "desc": "Rubbermaid Brilliance clear food storage containers \u2014 leak-proof, stain-resistant and stackable. Ideal for meal prep, leftovers and a fridge that looks organized.",
   "kw": "fridge organization, meal prep containers, pantry organization, food storage, kitchen organization",
   "img": "B079M8FPTW_b.jpg",
-  "publish": "2026-11-25T08:00:00"
+  "publish": "2026-11-23T07:00:00"
+ },
+ {
+  "id": "B074PVTPBW-a",
+  "asin": "B074PVTPBW",
+  "var": "a",
+  "name": "Mighty Patch Original Pimple Patches",
+  "board": "stocking",
+  "title": "The stocking stuffer every teen uses",
+  "desc": "Hero Cosmetics Mighty Patch pimple patches \u2014 the cult-favorite skincare stocking stuffer for teens and adults.",
+  "kw": "stocking stuffers for teens, skincare gifts, stocking stuffer ideas, teen gifts, small gifts",
+  "img": "img/B074PVTPBW_a.jpg",
+  "publish": "2026-11-18T03:30:00"
  },
  {
   "id": "B00FXNAAW2-b",
@@ -309,7 +561,19 @@
   "desc": "Slim velvet hangers save space and stop clothes from slipping off. Swapping to matching hangers is the fastest, cheapest way to make your closet look organized.",
   "kw": "closet organization, closet makeover, small closet ideas, velvet hangers, bedroom organization",
   "img": "B00FXNAAW2_b.jpg",
-  "publish": "2026-11-25T12:00:00"
+  "publish": "2026-11-23T11:30:00"
+ },
+ {
+  "id": "B00D7H9LIA-a",
+  "asin": "B00D7H9LIA",
+  "var": "a",
+  "name": "HotHands Hand Warmers Value Pack",
+  "board": "stocking",
+  "title": "The stocking stuffer everyone actually uses",
+  "desc": "HotHands hand warmers \u2014 split the value pack across everyone's stockings for cold games, commutes and winter walks.",
+  "kw": "stocking stuffers, hand warmers, winter essentials, stocking stuffers for men, practical gifts",
+  "img": "img/B00D7H9LIA_a.jpg",
+  "publish": "2026-11-23T13:30:00"
  },
  {
   "id": "B00MUEHPGQ-a",
@@ -321,7 +585,19 @@
   "desc": "A large potato ricer for the fluffiest, lump-free mashed potatoes \u2014 also great for squeezing water out of spinach and making baby food. A holiday dinner kitchen essential.",
   "kw": "mashed potatoes, christmas dinner sides, potato ricer, holiday recipes, kitchen tools",
   "img": "img/B00MUEHPGQ_a.jpg",
-  "publish": "2026-11-25T17:00:00"
+  "publish": "2026-11-23T15:30:00"
+ },
+ {
+  "id": "B091FXQQMQ-a",
+  "asin": "B091FXQQMQ",
+  "var": "a",
+  "name": "Kasa Smart Plug Ultra Mini",
+  "board": "stocking",
+  "title": "Make any lamp smart in two minutes",
+  "desc": "A Kasa smart plug turns any lamp, Christmas tree or coffee maker into a smart device you control from your phone or voice assistant. A clever tech stocking stuffer.",
+  "kw": "smart home, tech stocking stuffers, smart plug, christmas tree hack, gifts for dad",
+  "img": "img/B091FXQQMQ_a.jpg",
+  "publish": "2026-11-23T17:30:00"
  },
  {
   "id": "B00FW6CA6E-a",
@@ -333,7 +609,19 @@
   "desc": "Extra-large turkey brining bags make it easy to brine a whole turkey in the fridge or a cooler \u2014 no giant bucket required. The first step to a juicy holiday turkey for Christmas dinner.",
   "kw": "turkey brine, christmas dinner, how to brine a turkey, holiday cooking tips, holiday cooking",
   "img": "img/B00FW6CA6E_a.jpg",
-  "publish": "2026-11-25T20:30:00"
+  "publish": "2026-11-23T19:30:00"
+ },
+ {
+  "id": "B08H3JPH74-a",
+  "asin": "B08H3JPH74",
+  "var": "a",
+  "name": "Maybelline Lash Sensational Sky High Mascara",
+  "board": "stocking",
+  "title": "The drugstore mascara with a cult following",
+  "desc": "Maybelline Lash Sensational Sky High mascara \u2014 the viral drugstore favorite. An easy beauty stocking stuffer for teens, sisters and moms.",
+  "kw": "stocking stuffers for her, mascara, beauty gifts, stocking stuffers for teen girls, makeup",
+  "img": "img/B08H3JPH74_a.jpg",
+  "publish": "2026-11-23T21:30:00"
  },
  {
   "id": "B0CGNZ7BGR-a",
@@ -345,7 +633,19 @@
   "desc": "A piping bag and decorating tips set for Christmas cookies, cupcakes and cakes. Makes holiday cookie decorating night with the kids easy and fun.",
   "kw": "christmas cookies, cookie decorating, holiday baking, cupcake decorating, baking with kids",
   "img": "img/B0CGNZ7BGR_a.jpg",
-  "publish": "2026-11-26T08:00:00"
+  "publish": "2026-11-24T07:00:00"
+ },
+ {
+  "id": "B00K5CN370-a",
+  "asin": "B00K5CN370",
+  "var": "a",
+  "name": "Nike Everyday Cushioned Socks",
+  "board": "stocking",
+  "title": "Socks \u2014 but the ones they actually want",
+  "desc": "Nike Everyday cushioned socks \u2014 the socks people actually want for Christmas. A great stocking stuffer for teens, athletes and the whole family.",
+  "kw": "stocking stuffers for teens, nike socks, stocking stuffers for men, gifts for athletes, stocking ideas",
+  "img": "img/B00K5CN370_a.jpg",
+  "publish": "2026-11-24T09:30:00"
  },
  {
   "id": "B08RJXN5VT-a",
@@ -357,7 +657,19 @@
   "desc": "Oil-based food coloring that blends into buttercream and chocolate for bold, vibrant colors \u2014 perfect for Christmas cookies, cakes and holiday treats.",
   "kw": "food coloring, buttercream frosting, christmas cookie decorating, cake decorating, holiday baking",
   "img": "img/B08RJXN5VT_a.jpg",
-  "publish": "2026-11-26T12:00:00"
+  "publish": "2026-11-24T11:30:00"
+ },
+ {
+  "id": "B006QF3TW4-a",
+  "asin": "B006QF3TW4",
+  "var": "a",
+  "name": "LifeStraw Personal Water Filter",
+  "board": "stocking",
+  "title": "The gift for hikers and preppers",
+  "desc": "The LifeStraw personal water filter for hiking, camping, travel and emergency kits. A small, clever stocking stuffer for outdoorsy people.",
+  "kw": "hiking gifts, camping gifts, emergency kit, stocking stuffers for men, outdoor gifts",
+  "img": "img/B006QF3TW4_a.jpg",
+  "publish": "2026-11-24T13:30:00"
  },
  {
   "id": "B019FHD0FK-a",
@@ -369,7 +681,19 @@
   "desc": "A glass baking dish with a snap-on lid \u2014 bake casseroles, serve them, and store leftovers in the same dish. Perfect for Christmas dinner sides and holiday potlucks.",
   "kw": "casserole dish, christmas dinner sides, potluck ideas, baking dish, holiday hosting",
   "img": "img/B019FHD0FK_a.jpg",
-  "publish": "2026-11-26T17:00:00"
+  "publish": "2026-11-24T15:30:00"
+ },
+ {
+  "id": "B07PBQZ3KF-a",
+  "asin": "B07PBQZ3KF",
+  "var": "a",
+  "name": "e.l.f. Instant Lift Brow Pencil",
+  "board": "stocking",
+  "title": "The brow pencil makeup lovers swear by",
+  "desc": "e.l.f. Instant Lift Brow Pencil \u2014 an affordable beauty favorite and an easy stocking stuffer for teens and makeup lovers.",
+  "kw": "stocking stuffers for teen girls, elf cosmetics, beauty stocking stuffers, makeup gifts, small gifts",
+  "img": "img/B07PBQZ3KF_a.jpg",
+  "publish": "2026-11-24T17:30:00"
  },
  {
   "id": "B0C5HRJHGL-a",
@@ -381,7 +705,19 @@
   "desc": "An electric egg cooker that makes up to 7 soft, medium or hard-boiled eggs with no pot to watch. Easy breakfast and meal prep \u2014 and a fun small gift.",
   "kw": "hard boiled eggs, meal prep breakfast, egg cooker, kitchen gadgets, healthy breakfast",
   "img": "img/B0C5HRJHGL_a.jpg",
-  "publish": "2026-11-26T20:30:00"
+  "publish": "2026-11-24T19:30:00"
+ },
+ {
+  "id": "B00EB4ADQW-a",
+  "asin": "B00EB4ADQW",
+  "var": "a",
+  "name": "FUJIFILM Instax Mini Instant Film",
+  "board": "stocking",
+  "title": "If they got an Instax, they need this",
+  "desc": "FUJIFILM Instax Mini instant film \u2014 the must-have stocking stuffer for anyone with an Instax Mini camera. Capture and print every holiday moment.",
+  "kw": "instax mini film, stocking stuffers for teens, photo gifts, christmas memories, instant camera",
+  "img": "img/B00EB4ADQW_a.jpg",
+  "publish": "2026-11-24T21:30:00"
  },
  {
   "id": "B0000645YM-a",
@@ -393,7 +729,19 @@
   "desc": "A compact Cuisinart mini food processor for chopping onions, herbs, nuts and making dips and sauces fast. Small enough to keep on the counter.",
   "kw": "food processor, kitchen appliances, meal prep, small kitchen ideas, cooking hacks",
   "img": "img/B0000645YM_a.jpg",
-  "publish": "2026-11-27T08:00:00"
+  "publish": "2026-11-25T07:00:00"
+ },
+ {
+  "id": "B01EDKGFGU-a",
+  "asin": "B01EDKGFGU",
+  "var": "a",
+  "name": "Homemory Flickering Flameless Tea Lights (12)",
+  "board": "stocking",
+  "title": "Candlelight glow with zero fire risk",
+  "desc": "Flickering flameless LED tea lights \u2014 candle glow for mantels, mason jars, lanterns and centerpieces with no fire risk. Safe with kids and pets.",
+  "kw": "flameless candles, cozy home, holiday decor, stocking stuffers, christmas decor ideas",
+  "img": "img/B01EDKGFGU_a.jpg",
+  "publish": "2026-11-25T09:30:00"
  },
  {
   "id": "B0FBT84P65-a",
@@ -405,7 +753,19 @@
   "desc": "A programmable 7-quart Crockpot for chili, soups, pot roast and holiday sides \u2014 set it in the morning and come home to dinner. Big enough for family meals and parties.",
   "kw": "crockpot recipes, slow cooker meals, easy dinners, family dinner ideas, winter recipes",
   "img": "img/B0FBT84P65_a.jpg",
-  "publish": "2026-11-27T12:00:00"
+  "publish": "2026-11-25T11:30:00"
+ },
+ {
+  "id": "B0DXXYS4BJ-a",
+  "asin": "B0DXXYS4BJ",
+  "var": "a",
+  "name": "Roku Streaming Stick HD",
+  "board": "stocking",
+  "title": "The streaming stick that fits in a stocking",
+  "desc": "The Roku Streaming Stick HD with voice remote turns any TV into a streaming TV. A tech gift small enough for a stocking and simple enough for grandparents.",
+  "kw": "roku, tech stocking stuffers, gifts for grandparents, streaming, gifts for parents",
+  "img": "img/B0DXXYS4BJ_a.jpg",
+  "publish": "2026-11-25T13:30:00"
  },
  {
   "id": "B0CSZ7WBYW-a",
@@ -417,7 +777,19 @@
   "desc": "The Ninja Air Fryer Pro 4-in-1 air fries, roasts, reheats and dehydrates \u2014 crispy food with little to no oil. A big-hit Black Friday and Christmas gift for families.",
   "kw": "air fryer, black friday deals, christmas gift ideas, ninja air fryer, kitchen gifts",
   "img": "img/B0CSZ7WBYW_a.jpg",
-  "publish": "2026-11-27T17:00:00"
+  "publish": "2026-11-25T15:30:00"
+ },
+ {
+  "id": "B0FQFB8FMG-b",
+  "asin": "B0FQFB8FMG",
+  "var": "b",
+  "name": "Apple AirPods Pro 3",
+  "board": "him",
+  "title": "If you're getting him one big gift this year",
+  "desc": "Apple AirPods Pro 3 wireless earbuds with noise cancellation \u2014 for the gym, the commute and every call. One of the safest big gifts for husbands, dads, brothers and teens.",
+  "kw": "gifts for him, airpods pro, christmas gifts for men, tech gifts, gifts for husband",
+  "img": "img/B0FQFB8FMG_b.jpg",
+  "publish": "2026-11-25T17:30:00"
  },
  {
   "id": "B08PP48979-a",
@@ -429,7 +801,19 @@
   "desc": "A sleek Cosori electric kettle that boils water fast for tea, coffee, oatmeal and hot cocoa. A cozy, practical gift for tea lovers.",
   "kw": "gifts for tea lovers, electric kettle, cozy gifts, christmas gift ideas, kitchen gifts",
   "img": "img/B08PP48979_a.jpg",
-  "publish": "2026-11-27T20:30:00"
+  "publish": "2026-11-25T19:30:00"
+ },
+ {
+  "id": "B0GJTFXNRX-b",
+  "asin": "B0GJTFXNRX",
+  "var": "b",
+  "name": "Apple AirTag (2nd Generation)",
+  "board": "him",
+  "title": "Never lose luggage again",
+  "desc": "Apple AirTag helps find keys, wallets, bags and luggage right from an iPhone. A small, genuinely useful gift for the person who is always losing things \u2014 or always traveling.",
+  "kw": "gifts for him, airtag, travel gifts, practical gifts for men, stocking stuffers for men",
+  "img": "img/B0GJTFXNRX_b.jpg",
+  "publish": "2026-11-25T21:30:00"
  },
  {
   "id": "B0D4617CLP-a",
@@ -441,7 +825,19 @@
   "desc": "A gooseneck electric kettle for precise pour-over coffee and tea. A stylish gift for coffee lovers who want caf\u00e9-quality coffee at home.",
   "kw": "pour over coffee, coffee lover gifts, gooseneck kettle, gifts for him, coffee bar ideas",
   "img": "img/B0D4617CLP_a.jpg",
-  "publish": "2026-11-28T08:00:00"
+  "publish": "2026-11-26T07:00:00"
+ },
+ {
+  "id": "B002G9UDYG-b",
+  "asin": "B002G9UDYG",
+  "var": "b",
+  "name": "Carhartt Men's Knit Cuffed Beanie (A18)",
+  "board": "him",
+  "title": "A gift he'll wear all winter",
+  "desc": "The iconic Carhartt knit cuffed beanie \u2014 warm, durable and in lots of colors. An easy winter gift for dads, husbands, brothers and the outdoorsy guy in your life.",
+  "kw": "gifts for him, carhartt beanie, winter gifts for men, gifts for dad, stocking stuffers for men",
+  "img": "img/B002G9UDYG_b.jpg",
+  "publish": "2026-11-26T09:30:00"
  },
  {
   "id": "B0CC8DS2S5-a",
@@ -453,7 +849,19 @@
   "desc": "A coffee mug warmer that keeps coffee, tea and cocoa warm at your desk all morning. An easy gift for coworkers, teachers and work-from-home friends.",
   "kw": "gifts for coworkers, work from home gifts, mug warmer, coffee lover gifts, teacher gifts",
   "img": "img/B0CC8DS2S5_a.jpg",
-  "publish": "2026-11-28T12:00:00"
+  "publish": "2026-11-26T11:30:00"
+ },
+ {
+  "id": "B01KTUMBOI-b",
+  "asin": "B01KTUMBOI",
+  "var": "b",
+  "name": "Legendary Whitetails Men's Flannel Shirt",
+  "board": "him",
+  "title": "Matching-flannel Christmas morning, sorted",
+  "desc": "A soft, classic men's flannel shirt from Legendary Whitetails \u2014 perfect for cabin weekends, bonfires and Christmas morning photos.",
+  "kw": "mens flannel, gifts for him, christmas outfit ideas, gifts for husband, cozy gifts",
+  "img": "img/B01KTUMBOI_b.jpg",
+  "publish": "2026-11-26T13:30:00"
  },
  {
   "id": "B0D1VMFWYN-a",
@@ -465,7 +873,19 @@
   "desc": "Soft silk pillowcases that feel luxurious and are gentler on hair and skin. A thoughtful self-care gift for her \u2014 wife, mom, sister or best friend.",
   "kw": "gifts for her, self care gifts, silk pillowcase, beauty gifts, christmas gifts for women",
   "img": "img/B0D1VMFWYN_a.jpg",
-  "publish": "2026-11-28T17:00:00"
+  "publish": "2026-11-26T15:30:00"
+ },
+ {
+  "id": "B08D66HCXW-b",
+  "asin": "B08D66HCXW",
+  "var": "b",
+  "name": "LHKNL LED Headlamp Flashlight",
+  "board": "him",
+  "title": "Hands-free light for camping and repairs",
+  "desc": "A bright LED headlamp for camping, running, fishing, car trouble and fixing things under the sink \u2014 hands-free light he'll reach for constantly.",
+  "kw": "gifts for dad, camping gifts, practical gifts for men, headlamp, stocking stuffers for men",
+  "img": "img/B08D66HCXW_b.jpg",
+  "publish": "2026-11-26T17:30:00"
  },
  {
   "id": "B09GTRVJQM-a",
@@ -477,7 +897,19 @@
   "desc": "A compact Levoit air purifier for bedrooms, nurseries and home offices \u2014 helps with dust, pet hair and odors while the windows stay closed all winter. A practical gift.",
   "kw": "air purifier, bedroom essentials, practical gifts, healthy home, winter home tips",
   "img": "img/B09GTRVJQM_a.jpg",
-  "publish": "2026-11-28T20:30:00"
+  "publish": "2026-11-26T19:30:00"
+ },
+ {
+  "id": "B0CG65PYBV-b",
+  "asin": "B0CG65PYBV",
+  "var": "b",
+  "name": "Rechargeable Hand Warmers (2 Pack)",
+  "board": "him",
+  "title": "The gift for the guy always outside",
+  "desc": "Rechargeable hand warmers for football games, hunting, fishing, commuting and outdoor work. Reusable, pocket-sized and a great winter gift.",
+  "kw": "hand warmers, gifts for hunters, winter gifts, gifts for dad, outdoor gifts",
+  "img": "img/B0CG65PYBV_b.jpg",
+  "publish": "2026-11-26T21:30:00"
  },
  {
   "id": "B0D9N8Y3WL-a",
@@ -489,7 +921,19 @@
   "desc": "A candle warmer plate melts your candle from below \u2014 enjoy the scent with no open flame and make candles last longer. A cozy gift for candle lovers.",
   "kw": "candle lover gifts, candle warmer, cozy gifts, gifts for her, hygge",
   "img": "img/B0D9N8Y3WL_a.jpg",
-  "publish": "2026-11-29T08:00:00"
+  "publish": "2026-11-27T07:00:00"
+ },
+ {
+  "id": "B0DHT5XZR1-b",
+  "asin": "B0DHT5XZR1",
+  "var": "b",
+  "name": "Callaway Supersoft Golf Balls",
+  "board": "him",
+  "title": "Golfers always need more balls",
+  "desc": "A box of Callaway Supersoft golf balls \u2014 the gift golfers always use up. Easy stocking stuffer or add-on gift for dads, husbands and grandpas who golf.",
+  "kw": "gifts for golfers, golf gifts, gifts for dad, stocking stuffers for men, christmas gifts for men",
+  "img": "img/B0DHT5XZR1_b.jpg",
+  "publish": "2026-11-27T09:30:00"
  },
  {
   "id": "B0157T2ENY-a",
@@ -501,7 +945,19 @@
   "desc": "A plush, soft fleece bed blanket that adds warmth and coziness to your bed all winter. Comes in lots of colors to match any bedroom.",
   "kw": "cozy bedroom ideas, winter bedding, fleece blanket, bedroom decor, hygge bedroom",
   "img": "img/B0157T2ENY_a.jpg",
-  "publish": "2026-11-29T12:00:00"
+  "publish": "2026-11-27T11:30:00"
+ },
+ {
+  "id": "B0CTNWBT1Z-b",
+  "asin": "B0CTNWBT1Z",
+  "var": "b",
+  "name": "JBL Go 4 Portable Bluetooth Speaker",
+  "board": "him",
+  "title": "Music in the shower, garage or tailgate",
+  "desc": "The JBL Go 4 is a pocket-size, waterproof Bluetooth speaker for the shower, garage, beach and tailgates. A fun tech gift for teens, dads and friends.",
+  "kw": "bluetooth speaker, tech gifts, gifts for teens, gifts for him, jbl speaker",
+  "img": "img/B0CTNWBT1Z_b.jpg",
+  "publish": "2026-11-27T13:30:00"
  },
  {
   "id": "B0BPLB81LX-a",
@@ -513,7 +969,19 @@
   "desc": "A super soft throw blanket to drape over your sofa or bed \u2014 instantly cozy and perfect for movie nights. Also an easy gift.",
   "kw": "throw blanket, cozy living room, couch styling, movie night ideas, winter decor",
   "img": "img/B0BPLB81LX_a.jpg",
-  "publish": "2026-11-29T17:00:00"
+  "publish": "2026-11-27T15:30:00"
+ },
+ {
+  "id": "B0F7Z4QZTT-b",
+  "asin": "B0F7Z4QZTT",
+  "var": "b",
+  "name": "Amazon Fire TV Stick 4K",
+  "board": "him",
+  "title": "The easy upgrade for the old TV",
+  "desc": "The Fire TV Stick 4K turns any TV with HDMI into a smart TV for streaming apps. An easy gift for parents, grandparents, dorm rooms and the bedroom TV.",
+  "kw": "fire tv stick, tech gifts, gifts for dad, gifts for parents, smart tv",
+  "img": "img/B0F7Z4QZTT_b.jpg",
+  "publish": "2026-11-27T17:30:00"
  },
  {
   "id": "B07WG18RLT-a",
@@ -525,7 +993,19 @@
   "desc": "Battery-operated fairy lights \u2014 no outlet needed. Tuck them in mason jars, wreaths, garlands, mantels and centerpieces for instant Christmas magic.",
   "kw": "fairy lights, christmas decor ideas, diy christmas decorations, mantel decor, holiday centerpiece",
   "img": "img/B07WG18RLT_a.jpg",
-  "publish": "2026-11-29T20:30:00"
+  "publish": "2026-11-27T19:30:00"
+ },
+ {
+  "id": "B08WWX5GTZ-b",
+  "asin": "B08WWX5GTZ",
+  "var": "b",
+  "name": "Lichamp LED Camping Lantern",
+  "board": "him",
+  "title": "Camping trips and power outages, covered",
+  "desc": "A bright battery-powered LED lantern for camping, power outages, emergency kits and backyard nights. A practical gift every household can use.",
+  "kw": "camping gifts, emergency kit, power outage essentials, practical gifts, gifts for dad",
+  "img": "img/B08WWX5GTZ_b.jpg",
+  "publish": "2026-11-27T21:30:00"
  },
  {
   "id": "B07G43KS2G-a",
@@ -537,7 +1017,19 @@
   "desc": "A fluffy 48-inch faux fur Christmas tree skirt that hides the stand and gives your tree a soft, snowy, high-end look.",
   "kw": "christmas tree skirt, christmas tree ideas, white christmas decor, holiday decorating, cozy christmas",
   "img": "img/B07G43KS2G_a.jpg",
-  "publish": "2026-11-30T08:00:00"
+  "publish": "2026-11-28T07:00:00"
+ },
+ {
+  "id": "B0D6ZPNZ4Z-b",
+  "asin": "B0D6ZPNZ4Z",
+  "var": "b",
+  "name": "Sol de Janeiro Cheirosa Hair & Body Mist",
+  "board": "her",
+  "title": "On every teen girl's wish list",
+  "desc": "Sol de Janeiro Cheirosa hair and body fragrance mist \u2014 the cult-favorite scent for her. An easy gift for teens, sisters, best friends and moms.",
+  "kw": "gifts for her, sol de janeiro, gifts for teen girls, beauty gifts, christmas gifts for women",
+  "img": "img/B0D6ZPNZ4Z_b.jpg",
+  "publish": "2026-11-28T09:30:00"
  },
  {
   "id": "B015DJ5JV2-a",
@@ -549,7 +1041,19 @@
   "desc": "Scented sticks you hang in your artificial Christmas tree to fill the room with fresh fir scent \u2014 the easy hack for a tree that smells real.",
   "kw": "artificial christmas tree, christmas hacks, holiday scents, christmas decorating ideas, cozy home",
   "img": "img/B015DJ5JV2_a.jpg",
-  "publish": "2026-11-30T12:00:00"
+  "publish": "2026-11-28T11:30:00"
+ },
+ {
+  "id": "B0B2RM68G2-b",
+  "asin": "B0B2RM68G2",
+  "var": "b",
+  "name": "BIODANCE Bio-Collagen Real Deep Mask",
+  "board": "her",
+  "title": "A spa night in a box",
+  "desc": "BIODANCE Bio-Collagen overnight sheet masks \u2014 the viral K-beauty pick for a pampering spa night. A thoughtful self-care gift for her.",
+  "kw": "self care gifts, k beauty, skincare gifts, gifts for her, spa night ideas",
+  "img": "img/B0B2RM68G2_b.jpg",
+  "publish": "2026-11-28T13:30:00"
  },
  {
   "id": "B07F897P1G-a",
@@ -561,7 +1065,19 @@
   "desc": "An over-the-door wreath hanger \u2014 hang your Christmas wreath with no nails or damage. Renter-friendly front door decor for the holidays.",
   "kw": "front door christmas decor, wreath ideas, renter friendly decor, christmas porch, holiday decorating",
   "img": "img/B07F897P1G_a.jpg",
-  "publish": "2026-11-30T17:00:00"
+  "publish": "2026-11-28T15:30:00"
+ },
+ {
+  "id": "B014E2D6BY-b",
+  "asin": "B014E2D6BY",
+  "var": "b",
+  "name": "grace & stella Under Eye Masks",
+  "board": "her",
+  "title": "The 10-minute self-care treat",
+  "desc": "grace & stella under-eye masks \u2014 a quick, soothing self-care treat. A perfect stocking stuffer for moms, sisters, teachers and friends.",
+  "kw": "stocking stuffers for her, self care gifts, eye masks, gifts for mom, beauty gifts",
+  "img": "img/B014E2D6BY_b.jpg",
+  "publish": "2026-11-28T17:30:00"
  },
  {
   "id": "B0C6FCKQML-a",
@@ -573,7 +1089,19 @@
   "desc": "A compact DREO space heater to warm up a cold bedroom, home office or basement \u2014 heat the room you're in instead of the whole house.",
   "kw": "space heater, winter home tips, cozy bedroom, home office essentials, save on heating",
   "img": "img/B0C6FCKQML_a.jpg",
-  "publish": "2026-11-30T20:30:00"
+  "publish": "2026-11-28T19:30:00"
+ },
+ {
+  "id": "B09319MZJN-b",
+  "asin": "B09319MZJN",
+  "var": "b",
+  "name": "Fuzzy Cloud Socks for Women",
+  "board": "her",
+  "title": "The cozy gift every woman loves",
+  "desc": "Super soft fuzzy cloud socks for cozy nights in \u2014 the kind of gift every woman secretly wants. Great for stockings, gift baskets and Secret Santa.",
+  "kw": "fuzzy socks, cozy gifts, gifts for her, secret santa gifts, gift basket ideas",
+  "img": "img/B09319MZJN_b.jpg",
+  "publish": "2026-11-28T21:30:00"
  },
  {
   "id": "B0C2C9NHZW-a",
@@ -585,7 +1113,19 @@
   "desc": "A top-fill Levoit humidifier that adds moisture to dry winter air in bedrooms and nurseries \u2014 easy to refill and clean.",
   "kw": "humidifier, dry winter air, bedroom essentials, nursery essentials, winter home tips",
   "img": "img/B0C2C9NHZW_a.jpg",
-  "publish": "2026-12-01T08:00:00"
+  "publish": "2026-11-29T07:00:00"
+ },
+ {
+  "id": "B09P1GB319-b",
+  "asin": "B09P1GB319",
+  "var": "b",
+  "name": "CRZ YOGA Butterluxe Leggings",
+  "board": "her",
+  "title": "Her new favorite everyday leggings",
+  "desc": "CRZ YOGA Butterluxe leggings \u2014 buttery-soft, high-rise leggings for yoga, errands and lounging. A gift she'll wear constantly.",
+  "kw": "leggings, athleisure, gifts for her, workout gifts, christmas gifts for women",
+  "img": "img/B09P1GB319_b.jpg",
+  "publish": "2026-11-29T09:30:00"
  },
  {
   "id": "B0BDDX27WT-a",
@@ -597,7 +1137,19 @@
   "desc": "An electric mason jar vacuum sealer that seals jars in seconds to keep coffee, nuts, flour and leftovers fresh longer \u2014 the pantry organization upgrade.",
   "kw": "pantry organization, mason jar storage, food storage hacks, kitchen organization, pantry goals",
   "img": "img/B0BDDX27WT_a.jpg",
-  "publish": "2026-12-01T12:00:00"
+  "publish": "2026-11-29T11:30:00"
+ },
+ {
+  "id": "B0HJ9ZNRKT-b",
+  "asin": "B0HJ9ZNRKT",
+  "var": "b",
+  "name": "Apple Watch SE 3 (GPS, 40mm)",
+  "board": "her",
+  "title": "Workouts, steps and messages on her wrist",
+  "desc": "Apple Watch SE 3 \u2014 fitness tracking, notifications and safety features on her wrist. A big-ticket gift for wives, moms and teens with iPhones.",
+  "kw": "apple watch, gifts for her, fitness gifts, christmas gifts for wife, tech gifts",
+  "img": "img/B0HJ9ZNRKT_b.jpg",
+  "publish": "2026-11-29T13:30:00"
  },
  {
   "id": "B00MUEHPGQ-b",
@@ -609,7 +1161,19 @@
   "desc": "A large potato ricer for the fluffiest, lump-free mashed potatoes \u2014 also great for squeezing water out of spinach and making baby food. A holiday dinner kitchen essential.",
   "kw": "mashed potatoes, christmas dinner sides, potato ricer, holiday recipes, kitchen tools",
   "img": "img/B00MUEHPGQ_b.jpg",
-  "publish": "2026-12-01T17:00:00"
+  "publish": "2026-11-29T15:30:00"
+ },
+ {
+  "id": "B0CZPLV566-b",
+  "asin": "B0CZPLV566",
+  "var": "b",
+  "name": "Beats Solo 4 On-Ear Headphones",
+  "board": "her",
+  "title": "Headphones that look as good as they sound",
+  "desc": "Beats Solo 4 wireless on-ear headphones \u2014 stylish, comfortable and great for music on the go. A top gift for teens, students and music lovers.",
+  "kw": "beats headphones, gifts for teens, gifts for her, tech gifts, christmas gifts for teen girls",
+  "img": "img/B0CZPLV566_b.jpg",
+  "publish": "2026-11-29T17:30:00"
  },
  {
   "id": "B00FW6CA6E-b",
@@ -621,7 +1185,19 @@
   "desc": "Extra-large turkey brining bags make it easy to brine a whole turkey in the fridge or a cooler \u2014 no giant bucket required. The first step to a juicy holiday turkey for Christmas dinner.",
   "kw": "turkey brine, christmas dinner, how to brine a turkey, holiday cooking tips, holiday cooking",
   "img": "img/B00FW6CA6E_b.jpg",
-  "publish": "2026-12-01T20:30:00"
+  "publish": "2026-11-29T19:30:00"
+ },
+ {
+  "id": "B0FK1C3GDW-b",
+  "asin": "B0FK1C3GDW",
+  "var": "b",
+  "name": "Owala FreeSip Sway Water Bottle",
+  "board": "her",
+  "title": "The gift for the friend who's always hydrating",
+  "desc": "The Owala FreeSip Sway insulated water bottle \u2014 sip through the straw or swig from the spout, in fun colors. An easy gift for teens, coworkers and gym lovers.",
+  "kw": "owala, gifts for her, gifts for coworkers, water bottle, gifts for teen girls",
+  "img": "img/B0FK1C3GDW_b.jpg",
+  "publish": "2026-11-29T21:30:00"
  },
  {
   "id": "B0CGNZ7BGR-b",
@@ -633,7 +1209,19 @@
   "desc": "A piping bag and decorating tips set for Christmas cookies, cupcakes and cakes. Makes holiday cookie decorating night with the kids easy and fun.",
   "kw": "christmas cookies, cookie decorating, holiday baking, cupcake decorating, baking with kids",
   "img": "img/B0CGNZ7BGR_b.jpg",
-  "publish": "2026-12-02T08:00:00"
+  "publish": "2026-11-30T07:00:00"
+ },
+ {
+  "id": "B0014C0LSY-b",
+  "asin": "B0014C0LSY",
+  "var": "b",
+  "name": "Crocs Classic Clog",
+  "board": "her",
+  "title": "On-your-feet-all-day comfort",
+  "desc": "Crocs Classic Clogs \u2014 lightweight, comfy and easy to clean, in tons of colors. A favorite gift for nurses, teachers, teens and anyone on their feet all day.",
+  "kw": "crocs, gifts for nurses, comfy shoes, gifts for teens, christmas gift ideas",
+  "img": "img/B0014C0LSY_b.jpg",
+  "publish": "2026-11-30T09:30:00"
  },
  {
   "id": "B08RJXN5VT-b",
@@ -645,7 +1233,19 @@
   "desc": "Oil-based food coloring that blends into buttercream and chocolate for bold, vibrant colors \u2014 perfect for Christmas cookies, cakes and holiday treats.",
   "kw": "food coloring, buttercream frosting, christmas cookie decorating, cake decorating, holiday baking",
   "img": "img/B08RJXN5VT_b.jpg",
-  "publish": "2026-12-02T12:00:00"
+  "publish": "2026-11-30T11:30:00"
+ },
+ {
+  "id": "B0C3HCD34R-b",
+  "asin": "B0C3HCD34R",
+  "var": "b",
+  "name": "soundcore by Anker Q20i Headphones",
+  "board": "her",
+  "title": "Focus mode for students and commuters",
+  "desc": "soundcore by Anker Q20i noise-cancelling over-ear headphones \u2014 great for studying, commuting and travel. A budget-friendly tech gift that feels premium.",
+  "kw": "noise cancelling headphones, gifts for students, budget tech gifts, gifts for her, travel gifts",
+  "img": "img/B0C3HCD34R_b.jpg",
+  "publish": "2026-11-30T13:30:00"
  },
  {
   "id": "B019FHD0FK-b",
@@ -657,7 +1257,19 @@
   "desc": "A glass baking dish with a snap-on lid \u2014 bake casseroles, serve them, and store leftovers in the same dish. Perfect for Christmas dinner sides and holiday potlucks.",
   "kw": "casserole dish, christmas dinner sides, potluck ideas, baking dish, holiday hosting",
   "img": "img/B019FHD0FK_b.jpg",
-  "publish": "2026-12-02T17:00:00"
+  "publish": "2026-11-30T15:30:00"
+ },
+ {
+  "id": "B074PVTPBW-b",
+  "asin": "B074PVTPBW",
+  "var": "b",
+  "name": "Mighty Patch Original Pimple Patches",
+  "board": "stocking",
+  "title": "Tiny gift, big fan club",
+  "desc": "Hero Cosmetics Mighty Patch pimple patches \u2014 the cult-favorite skincare stocking stuffer for teens and adults.",
+  "kw": "stocking stuffers for teens, skincare gifts, stocking stuffer ideas, teen gifts, small gifts",
+  "img": "img/B074PVTPBW_b.jpg",
+  "publish": "2026-11-30T17:30:00"
  },
  {
   "id": "B0C5HRJHGL-b",
@@ -669,7 +1281,19 @@
   "desc": "An electric egg cooker that makes up to 7 soft, medium or hard-boiled eggs with no pot to watch. Easy breakfast and meal prep \u2014 and a fun small gift.",
   "kw": "hard boiled eggs, meal prep breakfast, egg cooker, kitchen gadgets, healthy breakfast",
   "img": "img/B0C5HRJHGL_b.jpg",
-  "publish": "2026-12-02T20:30:00"
+  "publish": "2026-11-30T19:30:00"
+ },
+ {
+  "id": "B00D7H9LIA-b",
+  "asin": "B00D7H9LIA",
+  "var": "b",
+  "name": "HotHands Hand Warmers Value Pack",
+  "board": "stocking",
+  "title": "Keep a pack in every coat pocket",
+  "desc": "HotHands hand warmers \u2014 split the value pack across everyone's stockings for cold games, commutes and winter walks.",
+  "kw": "stocking stuffers, hand warmers, winter essentials, stocking stuffers for men, practical gifts",
+  "img": "img/B00D7H9LIA_b.jpg",
+  "publish": "2026-11-30T21:30:00"
  },
  {
   "id": "B0000645YM-b",
@@ -681,7 +1305,19 @@
   "desc": "A compact Cuisinart mini food processor for chopping onions, herbs, nuts and making dips and sauces fast. Small enough to keep on the counter.",
   "kw": "food processor, kitchen appliances, meal prep, small kitchen ideas, cooking hacks",
   "img": "img/B0000645YM_b.jpg",
-  "publish": "2026-12-03T08:00:00"
+  "publish": "2026-12-01T07:00:00"
+ },
+ {
+  "id": "B091FXQQMQ-b",
+  "asin": "B091FXQQMQ",
+  "var": "b",
+  "name": "Kasa Smart Plug Ultra Mini",
+  "board": "stocking",
+  "title": "Turn the Christmas tree on with your voice",
+  "desc": "A Kasa smart plug turns any lamp, Christmas tree or coffee maker into a smart device you control from your phone or voice assistant. A clever tech stocking stuffer.",
+  "kw": "smart home, tech stocking stuffers, smart plug, christmas tree hack, gifts for dad",
+  "img": "img/B091FXQQMQ_b.jpg",
+  "publish": "2026-12-01T09:30:00"
  },
  {
   "id": "B0FBT84P65-b",
@@ -693,7 +1329,19 @@
   "desc": "A programmable 7-quart Crockpot for chili, soups, pot roast and holiday sides \u2014 set it in the morning and come home to dinner. Big enough for family meals and parties.",
   "kw": "crockpot recipes, slow cooker meals, easy dinners, family dinner ideas, winter recipes",
   "img": "img/B0FBT84P65_b.jpg",
-  "publish": "2026-12-03T12:00:00"
+  "publish": "2026-12-01T11:30:00"
+ },
+ {
+  "id": "B08H3JPH74-b",
+  "asin": "B08H3JPH74",
+  "var": "b",
+  "name": "Maybelline Lash Sensational Sky High Mascara",
+  "board": "stocking",
+  "title": "Her favorite mascara, in her stocking",
+  "desc": "Maybelline Lash Sensational Sky High mascara \u2014 the viral drugstore favorite. An easy beauty stocking stuffer for teens, sisters and moms.",
+  "kw": "stocking stuffers for her, mascara, beauty gifts, stocking stuffers for teen girls, makeup",
+  "img": "img/B08H3JPH74_b.jpg",
+  "publish": "2026-12-01T13:30:00"
  },
  {
   "id": "B0CSZ7WBYW-b",
@@ -705,7 +1353,19 @@
   "desc": "The Ninja Air Fryer Pro 4-in-1 air fries, roasts, reheats and dehydrates \u2014 crispy food with little to no oil. A big-hit Black Friday and Christmas gift for families.",
   "kw": "air fryer, black friday deals, christmas gift ideas, ninja air fryer, kitchen gifts",
   "img": "img/B0CSZ7WBYW_b.jpg",
-  "publish": "2026-12-03T17:00:00"
+  "publish": "2026-12-01T15:30:00"
+ },
+ {
+  "id": "B00K5CN370-b",
+  "asin": "B00K5CN370",
+  "var": "b",
+  "name": "Nike Everyday Cushioned Socks",
+  "board": "stocking",
+  "title": "The stocking stuffer teens don't complain about",
+  "desc": "Nike Everyday cushioned socks \u2014 the socks people actually want for Christmas. A great stocking stuffer for teens, athletes and the whole family.",
+  "kw": "stocking stuffers for teens, nike socks, stocking stuffers for men, gifts for athletes, stocking ideas",
+  "img": "img/B00K5CN370_b.jpg",
+  "publish": "2026-12-01T17:30:00"
  },
  {
   "id": "B08PP48979-b",
@@ -717,7 +1377,19 @@
   "desc": "A sleek Cosori electric kettle that boils water fast for tea, coffee, oatmeal and hot cocoa. A cozy, practical gift for tea lovers.",
   "kw": "gifts for tea lovers, electric kettle, cozy gifts, christmas gift ideas, kitchen gifts",
   "img": "img/B08PP48979_b.jpg",
-  "publish": "2026-12-03T20:30:00"
+  "publish": "2026-12-01T19:30:00"
+ },
+ {
+  "id": "B006QF3TW4-b",
+  "asin": "B006QF3TW4",
+  "var": "b",
+  "name": "LifeStraw Personal Water Filter",
+  "board": "stocking",
+  "title": "Clean drinking water anywhere",
+  "desc": "The LifeStraw personal water filter for hiking, camping, travel and emergency kits. A small, clever stocking stuffer for outdoorsy people.",
+  "kw": "hiking gifts, camping gifts, emergency kit, stocking stuffers for men, outdoor gifts",
+  "img": "img/B006QF3TW4_b.jpg",
+  "publish": "2026-12-01T21:30:00"
  },
  {
   "id": "B0D4617CLP-b",
@@ -729,7 +1401,19 @@
   "desc": "A gooseneck electric kettle for precise pour-over coffee and tea. A stylish gift for coffee lovers who want caf\u00e9-quality coffee at home.",
   "kw": "pour over coffee, coffee lover gifts, gooseneck kettle, gifts for him, coffee bar ideas",
   "img": "img/B0D4617CLP_b.jpg",
-  "publish": "2026-12-04T08:00:00"
+  "publish": "2026-12-02T07:00:00"
+ },
+ {
+  "id": "B07PBQZ3KF-b",
+  "asin": "B07PBQZ3KF",
+  "var": "b",
+  "name": "e.l.f. Instant Lift Brow Pencil",
+  "board": "stocking",
+  "title": "Beauty stocking stuffers teens love",
+  "desc": "e.l.f. Instant Lift Brow Pencil \u2014 an affordable beauty favorite and an easy stocking stuffer for teens and makeup lovers.",
+  "kw": "stocking stuffers for teen girls, elf cosmetics, beauty stocking stuffers, makeup gifts, small gifts",
+  "img": "img/B07PBQZ3KF_b.jpg",
+  "publish": "2026-12-02T09:30:00"
  },
  {
   "id": "B0CC8DS2S5-b",
@@ -741,7 +1425,19 @@
   "desc": "A coffee mug warmer that keeps coffee, tea and cocoa warm at your desk all morning. An easy gift for coworkers, teachers and work-from-home friends.",
   "kw": "gifts for coworkers, work from home gifts, mug warmer, coffee lover gifts, teacher gifts",
   "img": "img/B0CC8DS2S5_b.jpg",
-  "publish": "2026-12-04T12:00:00"
+  "publish": "2026-12-02T11:30:00"
+ },
+ {
+  "id": "B00EB4ADQW-b",
+  "asin": "B00EB4ADQW",
+  "var": "b",
+  "name": "FUJIFILM Instax Mini Instant Film",
+  "board": "stocking",
+  "title": "Print every Christmas morning moment",
+  "desc": "FUJIFILM Instax Mini instant film \u2014 the must-have stocking stuffer for anyone with an Instax Mini camera. Capture and print every holiday moment.",
+  "kw": "instax mini film, stocking stuffers for teens, photo gifts, christmas memories, instant camera",
+  "img": "img/B00EB4ADQW_b.jpg",
+  "publish": "2026-12-02T13:30:00"
  },
  {
   "id": "B0D1VMFWYN-b",
@@ -753,7 +1449,19 @@
   "desc": "Soft silk pillowcases that feel luxurious and are gentler on hair and skin. A thoughtful self-care gift for her \u2014 wife, mom, sister or best friend.",
   "kw": "gifts for her, self care gifts, silk pillowcase, beauty gifts, christmas gifts for women",
   "img": "img/B0D1VMFWYN_b.jpg",
-  "publish": "2026-12-04T17:00:00"
+  "publish": "2026-12-02T15:30:00"
+ },
+ {
+  "id": "B01EDKGFGU-b",
+  "asin": "B01EDKGFGU",
+  "var": "b",
+  "name": "Homemory Flickering Flameless Tea Lights (12)",
+  "board": "stocking",
+  "title": "Glowing mason jars and mantels, safely",
+  "desc": "Flickering flameless LED tea lights \u2014 candle glow for mantels, mason jars, lanterns and centerpieces with no fire risk. Safe with kids and pets.",
+  "kw": "flameless candles, cozy home, holiday decor, stocking stuffers, christmas decor ideas",
+  "img": "img/B01EDKGFGU_b.jpg",
+  "publish": "2026-12-02T17:30:00"
  },
  {
   "id": "B09GTRVJQM-b",
@@ -765,7 +1473,19 @@
   "desc": "A compact Levoit air purifier for bedrooms, nurseries and home offices \u2014 helps with dust, pet hair and odors while the windows stay closed all winter. A practical gift.",
   "kw": "air purifier, bedroom essentials, practical gifts, healthy home, winter home tips",
   "img": "img/B09GTRVJQM_b.jpg",
-  "publish": "2026-12-04T20:30:00"
+  "publish": "2026-12-02T19:30:00"
+ },
+ {
+  "id": "B0DXXYS4BJ-b",
+  "asin": "B0DXXYS4BJ",
+  "var": "b",
+  "name": "Roku Streaming Stick HD",
+  "board": "stocking",
+  "title": "Streaming made simple for anyone",
+  "desc": "The Roku Streaming Stick HD with voice remote turns any TV into a streaming TV. A tech gift small enough for a stocking and simple enough for grandparents.",
+  "kw": "roku, tech stocking stuffers, gifts for grandparents, streaming, gifts for parents",
+  "img": "img/B0DXXYS4BJ_b.jpg",
+  "publish": "2026-12-02T21:30:00"
  },
  {
   "id": "B0D9N8Y3WL-b",
@@ -777,7 +1497,7 @@
   "desc": "A candle warmer plate melts your candle from below \u2014 enjoy the scent with no open flame and make candles last longer. A cozy gift for candle lovers.",
   "kw": "candle lover gifts, candle warmer, cozy gifts, gifts for her, hygge",
   "img": "img/B0D9N8Y3WL_b.jpg",
-  "publish": "2026-12-05T08:00:00"
+  "publish": "2026-12-03T07:00:00"
  },
  {
   "id": "B0157T2ENY-b",
@@ -789,7 +1509,7 @@
   "desc": "A plush, soft fleece bed blanket that adds warmth and coziness to your bed all winter. Comes in lots of colors to match any bedroom.",
   "kw": "cozy bedroom ideas, winter bedding, fleece blanket, bedroom decor, hygge bedroom",
   "img": "img/B0157T2ENY_b.jpg",
-  "publish": "2026-12-05T12:00:00"
+  "publish": "2026-12-03T09:30:00"
  },
  {
   "id": "B0BPLB81LX-b",
@@ -801,7 +1521,7 @@
   "desc": "A super soft throw blanket to drape over your sofa or bed \u2014 instantly cozy and perfect for movie nights. Also an easy gift.",
   "kw": "throw blanket, cozy living room, couch styling, movie night ideas, winter decor",
   "img": "img/B0BPLB81LX_b.jpg",
-  "publish": "2026-12-05T17:00:00"
+  "publish": "2026-12-03T11:30:00"
  },
  {
   "id": "B07WG18RLT-b",
@@ -813,7 +1533,7 @@
   "desc": "Battery-operated fairy lights \u2014 no outlet needed. Tuck them in mason jars, wreaths, garlands, mantels and centerpieces for instant Christmas magic.",
   "kw": "fairy lights, christmas decor ideas, diy christmas decorations, mantel decor, holiday centerpiece",
   "img": "img/B07WG18RLT_b.jpg",
-  "publish": "2026-12-05T20:30:00"
+  "publish": "2026-12-03T13:30:00"
  },
  {
   "id": "B07G43KS2G-b",
@@ -825,7 +1545,7 @@
   "desc": "A fluffy 48-inch faux fur Christmas tree skirt that hides the stand and gives your tree a soft, snowy, high-end look.",
   "kw": "christmas tree skirt, christmas tree ideas, white christmas decor, holiday decorating, cozy christmas",
   "img": "img/B07G43KS2G_b.jpg",
-  "publish": "2026-12-06T08:00:00"
+  "publish": "2026-12-03T15:30:00"
  },
  {
   "id": "B015DJ5JV2-b",
@@ -837,7 +1557,7 @@
   "desc": "Scented sticks you hang in your artificial Christmas tree to fill the room with fresh fir scent \u2014 the easy hack for a tree that smells real.",
   "kw": "artificial christmas tree, christmas hacks, holiday scents, christmas decorating ideas, cozy home",
   "img": "img/B015DJ5JV2_b.jpg",
-  "publish": "2026-12-06T12:00:00"
+  "publish": "2026-12-03T17:30:00"
  },
  {
   "id": "B07F897P1G-b",
@@ -849,7 +1569,7 @@
   "desc": "An over-the-door wreath hanger \u2014 hang your Christmas wreath with no nails or damage. Renter-friendly front door decor for the holidays.",
   "kw": "front door christmas decor, wreath ideas, renter friendly decor, christmas porch, holiday decorating",
   "img": "img/B07F897P1G_b.jpg",
-  "publish": "2026-12-06T17:00:00"
+  "publish": "2026-12-03T19:30:00"
  },
  {
   "id": "B0C6FCKQML-b",
@@ -861,7 +1581,7 @@
   "desc": "A compact DREO space heater to warm up a cold bedroom, home office or basement \u2014 heat the room you're in instead of the whole house.",
   "kw": "space heater, winter home tips, cozy bedroom, home office essentials, save on heating",
   "img": "img/B0C6FCKQML_b.jpg",
-  "publish": "2026-12-06T20:30:00"
+  "publish": "2026-12-03T21:30:00"
  },
  {
   "id": "B0C2C9NHZW-b",
@@ -873,7 +1593,7 @@
   "desc": "A top-fill Levoit humidifier that adds moisture to dry winter air in bedrooms and nurseries \u2014 easy to refill and clean.",
   "kw": "humidifier, dry winter air, bedroom essentials, nursery essentials, winter home tips",
   "img": "img/B0C2C9NHZW_b.jpg",
-  "publish": "2026-12-07T08:00:00"
+  "publish": "2026-12-04T07:00:00"
  },
  {
   "id": "B0BDDX27WT-b",
@@ -885,6 +1605,6 @@
   "desc": "An electric mason jar vacuum sealer that seals jars in seconds to keep coffee, nuts, flour and leftovers fresh longer \u2014 the pantry organization upgrade.",
   "kw": "pantry organization, mason jar storage, food storage hacks, kitchen organization, pantry goals",
   "img": "img/B0BDDX27WT_b.jpg",
-  "publish": "2026-12-07T12:00:00"
+  "publish": "2026-12-04T09:30:00"
  }
 ]

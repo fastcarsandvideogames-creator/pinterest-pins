@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 from email.utils import format_datetime
 
-SITE = "https://picks.yourecomempire.com"
+SITE = "http://picks.yourecomempire.com"  # http until GitHub issues the HTTPS certificate; works either way
 TAG = "ecom305-20"
 NAME = "Home & Gift Picks"
 TZ = ZoneInfo("America/New_York")
